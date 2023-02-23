@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Github Shortcuts Extension",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A simple extension to enhance Github shortcuts",
   "permissions": ["activeTab", "scripting"],
   "content_scripts": [
@@ -14,9 +14,9 @@
     "service_worker": "background.js"
   },
   "commands": {
-    "toggle-github-buttons": {
+    "close-github-pr-files": {
       "suggested_key": {
-        "default": "Ctrl+Shift+6"
+        "default": "Ctrl+M"
       },
       "description": "Close github PR files"
     }
