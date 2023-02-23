@@ -1,4 +1,4 @@
-# Github Toggle Extension
+# Github PR Shortcuts Extension
 
 Github Toggle Extension is a simple Chrome extension that allows you to close all github PR files.
 
