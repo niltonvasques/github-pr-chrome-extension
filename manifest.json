@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Github Toggle Extension",
+  "name": "Github Shortcuts Extension",
   "version": "1.0",
-  "description": "A simple extension to toggle Github buttons",
+  "description": "A simple extension to enhance Github shortcuts",
   "permissions": ["activeTab", "scripting"],
   "content_scripts": [
     {
@@ -18,14 +18,7 @@
       "suggested_key": {
         "default": "Ctrl+Shift+6"
       },
-      "description": "Toggle Github buttons"
-    },
-    "Restart App": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+7",
-        "mac": "Command+Shift+7"
-      },
-      "description": "Restart my app (Debugging)"
+      "description": "Close github PR files"
     }
   }
 }
