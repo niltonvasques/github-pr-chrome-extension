@@ -17,6 +17,9 @@ To install Github Toggle Extension, follow these steps:
 To use Github Toggle Extension, simply press the `Ctrl+M` keyboard shortcut while on Github.com.
 This will close all PR files opened in the changed files tab.
 
+<img src="https://user-images.githubusercontent.com/2291529/221005673-7de96934-2432-474e-a77d-2889e6e9f074.gif" width="500">
+
+
 ## Contributing
 
 If you would like to contribute to Github Toggle Extension, feel free to fork the repository and submit a pull request. Contributions are always welcome!
