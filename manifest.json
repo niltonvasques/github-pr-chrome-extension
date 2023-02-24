@@ -19,6 +19,12 @@
         "default": "Ctrl+M"
       },
       "description": "Close github PR files"
+    },
+    "re-request-review": {
+      "suggested_key": {
+        "default": "Alt+R"
+      },
+      "description": "Requests review for reviewers who requested changes"
     }
   }
 }
