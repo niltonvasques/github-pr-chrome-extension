@@ -25,7 +25,10 @@ This will close all PR files opened in the changed files tab.
 ### Request review
 
 Press the `Alt+R` keyboard shortcut while on Github.com.
-This will request review for everyone who previously rejected your changes
+This will request review for everyone who previously request changes to a pull request
+
+<img src="https://user-images.githubusercontent.com/7268602/221282174-df49f42a-647b-4c96-a7f5-97b255352e3a.gif" width="500">
+
 
 
 ## Contributing
